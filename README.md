@@ -13,3 +13,6 @@ Resource to setup the serverless website on AWS:
 https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/getting-started-cloudfront-overview.html#getting-started-cloudfront-request-certificate
 
 Website link: https://www.vinnoce.com/ 
+
+![image](https://github.com/stopa123/Serverless-web-hosting/assets/57534110/7edd0f8d-ffdf-4063-9ec3-dfe9984ab316)
+
